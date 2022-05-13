@@ -193,8 +193,9 @@ h2 {
     padding-left: 50px;
     padding-right: 50px;
   }
+    
+    }
 
-}
 
 /*The content of the dropdown*/
 @media screen and (max-width: 1010px) {
@@ -224,6 +225,8 @@ h2 {
 
 
   }
+
+  
 }
 
 * {
@@ -372,5 +375,33 @@ margin-bottom: 20px;
 text-align: center;
 font-size: 17px;
 font-family: lato;
-overflow: auto;
 }
+
+.bottomlogo{
+  float: right; 
+  transform: translateY(-90%); 
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 700px) {
+
+  .BottomContact {
+display: none;
+    }
+
+.bottomlogo{
+  transform: translateY(0%); 
+}
+
+.background-image {
+  background-image: linear-gradient(rgba(46, 179, 214, 0.60), rgba(67, 204, 152, 0.60)), url(Cats/Momo3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-width: 100%;
+  width: 100%;
+
+}
+
+    }
