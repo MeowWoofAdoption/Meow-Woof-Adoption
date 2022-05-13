@@ -289,7 +289,7 @@ input[type=button] {
 
 }
 
-.test {
+.AdoptionButton2 {
   text-align: center;
   font-size: 20px;
   float: right;
@@ -390,7 +390,7 @@ display: none;
     }
 
 .bottomlogo{
-  transform: translateY(0%); 
+  transform: translateY(10%); 
 }
 
 .background-image {
@@ -416,4 +416,19 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 
+.AdoptionButton {
+  font-size: 15px;
+}
+
+.AdoptionButton2 {
+  font-size: 15px;
+}
+
+.btn1 {
+  height: 90px;
+}
+
+.btn2 {
+padding-bottom: 70px;
     }
+  }
