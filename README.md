@@ -1,3 +1,3 @@
-# MeowWoofAdoption.github.io
-
-My capstone!
+---
+permalink: Capstone/index.html
+---
