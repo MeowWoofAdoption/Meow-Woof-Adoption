@@ -394,12 +394,12 @@ display: none;
 }
 
 .background-image {
-  background-image: linear-gradient(rgba(46, 179, 214, 0.60), rgba(67, 204, 152, 0.60)), url(Cats/Momo3.jpg);
+  background-image: linear-gradient(rgba(46, 179, 214, 0.60), rgba(67, 204, 152, 0.60)), url(DOG/CASPER1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
-  max-width: 100%;
+  max-width: 500%;
   width: 100%;
 
 }
