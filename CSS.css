@@ -404,4 +404,16 @@ display: none;
 
 }
 
+.QuestionsSuggestion {
+  min-height: 100%;
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: center;
+  background-color: #b8c5ce;
+  display: block;
+overflow: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
     }
