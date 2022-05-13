@@ -1,3 +1,3 @@
 ---
-permalink: Capstone/index.html
+permalink: index.html
 ---
